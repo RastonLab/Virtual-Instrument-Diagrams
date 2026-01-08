@@ -4,6 +4,10 @@ This repository is the home of the different diagrams used in the construction o
 
 All graphics were created using [Inkscape](https://inkscape.org/).
 
+## [FTMW](ftmw#readme)
+
+![FTMW Exterior](ftmw/instrument-window-component.svg)
+
 ## [FTIR](ftir#readme)
 
 ![FTIR Exterior](ftir/instrument-window.svg)

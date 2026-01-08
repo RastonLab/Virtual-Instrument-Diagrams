@@ -39,6 +39,21 @@
 
 
 # Other Instrument SVGs
+## [Fabry-Perot Cavity Graph](instrumentSVGs/graph.png)
+![Fabry-Perot Cavity Graph](instrumentSVGs/graph.png)
+
+## [Fabry-Perot Cavity Table](instrumentSVGs/cavity_table.png)
+![Fabry-Perot Cavity Table](instrumentSVGs/cavity_table.png)
+
+## [Mirror](instrumentSVGs/mirror.svg)
+![Mirror](instrumentSVGs/mirror.svg)
+
+## [Readout](instrumentSVGs/readout.svg)
+![Readout](instrumentSVGs/readout.svg)
+
+## [Gas Cloud](instrumentSVGs/white-smoke-cloud.png)
+![Gas Cloud](instrumentSVGs/white-smoke-cloud.png)
+
 
 # Schematic Tip Images
 
