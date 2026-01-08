@@ -13,6 +13,29 @@
 ## [Lecture Bottle](instrumentSVGs/gas.svg)
 ![Lecture Bottle](instrumentSVGs/gas.svg )
 
+## [Fixed Mirror](instrumentSVGs/Fixed-mirror.svg)
+![Fixed Mirror](instrumentSVGs/Fixed-mirror.svg)
+
+## [Movable Mirror](instrumentSVGs/Movable-mirror.svg)
+![Movable Mirror](instrumentSVGs/Movable-mirror.svg)
+
+## [Rotary Pump](instrumentSVGs/rotary-pump.svg)
+![Rotary Pump](instrumentSVGs/rotary-pump.svg)
+
+## [Ion Gauge](instrumentSVGs/ion-gauge.svg)
+![Ion Gauge](instrumentSVGs/ion-gauge.svg)
+
+## [Pressure Controller](instrumentSVGs/pressure-controller.svg)
+![Pressure Controller](instrumentSVGs/pressure-controller.svg)
+
+## [Tuning Rod & Motor](instrumentSVGs/tuning-rod-&-motor.svg)
+![Tuning Rod & Motor](instrumentSVGs/tuning-rod-&-motor.svg)
+
+## [Bellows](instrumentSVGs/Metal-Hose.svg)
+![Bellows](instrumentSVGs/Metal-Hose.svg)
+
+## [Support Rod](instrumentSVGs/Metal-Rod.svg)
+![Support Rod](instrumentSVGs/Metal-Rod.svg)
 
 
 # Other Instrument SVGs
