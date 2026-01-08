@@ -24,7 +24,7 @@ All graphics were created using [Inkscape](https://inkscape.org/).
 
 ## Logo
 
-![Raston Lab Logo](logo/rastonlab-logo.svg)
+![Raston Lab Logo](logo/rastonlab-logo-v2.svg)
 
 ## Notes
 
