@@ -98,8 +98,8 @@
 ## [Oscilloscope](schematicSVGs/computer-ad-converters.svg)
 ![Oscilloscope](schematicSVGs/computer-ad-converters.svg)
 
-## [Frequency Reference](schematicSVGs/Standford-Research-Systems-10 MHz.svg)
-![Frequency Reference](schematicSVGs/Standford-Research-Systems-10 MHz.svg)
+## [Frequency Reference](schematicSVGs/Standford-Research-Systems-10%20MHz.svg)
+![Frequency Reference](schematicSVGs/Standford-Research-Systems-10%20MHz.svg)
 
 ## [Pulse Generator](schematicSVGs/Pulse-Generators.svg)
 ![Pulse Generator](schematicSVGs/Pulse-Generators.svg)
