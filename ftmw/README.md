@@ -104,8 +104,17 @@
 ## [Pulse Generator](schematicSVGs/Pulse-Generators.svg)
 ![Pulse Generator](schematicSVGs/Pulse-Generators.svg)
 
+## [FTMW Experiment Diagram](schematicSVGs/FTMW_2025.gif)
+![FTMW Experiment Diagram](schematicSVGs/FTMW_2025.gif)
+
 
 # Other Schematic SVGs
+## [FID Display](schematicSVGs/FID-DISPLAY.svg)
+![FID Display](schematicSVGs/FID-DISPLAY.svg)
+
+## [Microwave Synthesizer](schematicSVGs/mw-synthesizer.svg)
+![Microwave Synthesizer](schematicSVGs/mw-synthesizer.svg)
+
 ## [Red Waves](schematicSVGs/Red-Waves.svg)
 ![Red Waves](schematicSVGs/Red-Waves.svg)
 
